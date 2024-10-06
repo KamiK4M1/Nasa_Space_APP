@@ -21,3 +21,4 @@ Programming Languages: Python
 
 Software: Canva
 
+Link to our model : https://huggingface.co/kxm1k4m1/variables_of_exoplanets/tree/main/model
